@@ -1,6 +1,0 @@
-{
-  "name": "Riptide",
-  "description": "A complete production-ready E-Commerce Web Application built for organic foods like Ghorerbazar.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
