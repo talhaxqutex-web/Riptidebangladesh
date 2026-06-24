@@ -1,0 +1,6 @@
+{
+  "name": "Riptide",
+  "description": "A premium, high-tech gadgets and smart device e-commerce store with rapid delivery and integrated mobile banking services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
